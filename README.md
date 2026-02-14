@@ -1,26 +1,25 @@
 # 💫 About Me:
 # Hi, I'm Aditya Singh 👋  
 
-<br><br>Backend Developer | System Design Enthusiast  
+<br>Backend Developer | System Design Enthusiast  
 
-<br><br>I build scalable backend systems with a focus on clean architecture, performance, and real-world engineering challenges.  
+<br>I build scalable backend systems with a focus on clean architecture, performance, and real-world engineering challenges.  
 
 <br><br>I primarily work with Python, Node.js, and Go, developing REST APIs, microservices, and database-driven applications. I’m particularly interested in distributed systems and payment infrastructure.
 
-<br><br>## 🚀 Current Focus  
+<br>## 🚀 Current Focus  
 - Building a Global Payment Orchestrator  
 - Improving System Design (caching, load balancing, scalability)  
 - Strengthening Data Structures & Algorithms  
 - Learning distributed systems  
 
-<br><br>## 🛠 Tech Stack  
+<br>## 🛠 Tech Stack  
 **Languages:** Python, JavaScript, Go  <br>
 **Backend:** Node.js, REST APIs  <br>
 **Databases:** PostgreSQL, MongoDB  <br>
 **Tools:** Git, Linux, Docker  
 
-<br><br>---  
-<br><br>📩 Open to Backend / SDE Opportunities  
+<br>📩 Open to Backend / SDE Opportunities  
 
   <br>
 
