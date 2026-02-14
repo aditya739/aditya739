@@ -12,13 +12,6 @@
 - Improving System Design (caching, load balancing, scalability)  
 - Strengthening Data Structures & Algorithms  
 - Learning distributed systems  
-
-<br>## 🛠 Tech Stack  
-**Languages:** Python, JavaScript, Go  <br>
-**Backend:** Node.js, REST APIs  <br>
-**Databases:** PostgreSQL, MongoDB  <br>
-**Tools:** Git, Linux, Docker  
-
 <br>📩 Open to Backend / SDE Opportunities  
 
   <br>
