@@ -1,5 +1,38 @@
 # 💫 About Me:
-# Hi, I'm Aditya Singh 👋  <br><br>Backend Developer | System Design Learner | Building Scalable Systems  <br><br>I am a backend-focused software developer passionate about designing and building scalable, production-ready systems. I enjoy working on real-world engineering problems involving architecture, performance optimization, distributed systems, and infrastructure design.<br><br>My primary focus is backend development using Python, Node.js, and Go. I have hands-on experience building REST APIs, microservices, authentication systems, and database-driven applications. I am particularly interested in high-scale system design, payment infrastructure, and backend performance engineering.<br><br>## 🚀 What I’m Currently Working On<br>- Designing a Global Payment Orchestrator from scratch<br>- Improving system design knowledge (scalability, load balancing, caching, queues)<br>- Strengthening Data Structures & Algorithms for SDE roles<br>- Exploring distributed systems and backend optimization<br><br>## 🛠 Tech Stack<br>**Languages:** Python, JavaScript, Go  <br>**Backend:** Node.js, Express, REST APIs  <br>**Databases:** PostgreSQL, MongoDB  <br>**Concepts:** System Design, Microservices, OOP, Clean Architecture  <br>**Tools:** Git, Linux, Docker (learning), Postman  <br><br>## 📚 Areas of Interest<br>- Distributed Systems  <br>- Payment Gateways & Financial Infrastructure  <br>- High-Performance Backend Systems  <br>- Scalable Architecture Design  <br>- Backend Security & Authentication  <br><br>I believe in building projects that simulate real-world engineering challenges rather than just tutorial-based applications. Every repository here represents deliberate practice toward becoming a strong Software Development Engineer.<br><br>---<br><br>📩 Open to Backend / SDE Opportunities  <br>
+# Hi, I'm Aditya Singh 👋  
+
+<br><br>Backend Developer | System Design Enthusiast | Building Scalable Systems  
+
+<br><br>I build scalable backend systems with a strong focus on performance, clean architecture, and real-world engineering challenges. My work revolves around designing production-ready applications that handle scale, reliability, and maintainability.
+
+<br><br>I primarily work with Python, Node.js, and Go, developing REST APIs, microservices, authentication systems, and database-driven applications. I am especially interested in distributed systems, payment infrastructure, and high-performance backend engineering.
+
+<br><br>## 🚀 What I’m Currently Working On  
+- Building a Global Payment Orchestrator from scratch  
+- Strengthening System Design (caching, load balancing, queues, scalability)  
+- Improving Data Structures & Algorithms for SDE roles  
+- Exploring distributed systems and backend optimization  
+
+<br><br>## 🛠 Tech Stack  
+**Languages:** Python, JavaScript, Go  <br>
+**Backend:** Node.js, Express, REST APIs  <br>
+**Databases:** PostgreSQL, MongoDB  <br>
+**Concepts:** System Design, Microservices, OOP, Clean Architecture  <br>
+**Tools:** Git, Linux, Docker (learning), Postman  
+
+<br><br>## 📚 Areas of Interest  
+- Distributed Systems  
+- Payment Gateways & Financial Infrastructure  
+- High-Performance Backend Systems  
+- Scalable Architecture Design  
+- Backend Security & Authentication  
+
+<br><br>I focus on building practical, engineering-driven projects rather than tutorial-based implementations. Each repository reflects deliberate practice toward becoming a strong Software Development Engineer.
+
+<br><br>---  
+
+<br><br>📩 Open to Backend / SDE Opportunities  
+  <br>
 
 
 ## 🌐 Socials:
