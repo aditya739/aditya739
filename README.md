@@ -1,37 +1,27 @@
 # 💫 About Me:
 # Hi, I'm Aditya Singh 👋  
 
-<br><br>Backend Developer | System Design Enthusiast | Building Scalable Systems  
+<br><br>Backend Developer | System Design Enthusiast  
 
-<br><br>I build scalable backend systems with a strong focus on performance, clean architecture, and real-world engineering challenges. My work revolves around designing production-ready applications that handle scale, reliability, and maintainability.
+<br><br>I build scalable backend systems with a focus on clean architecture, performance, and real-world engineering challenges.  
 
-<br><br>I primarily work with Python, Node.js, and Go, developing REST APIs, microservices, authentication systems, and database-driven applications. I am especially interested in distributed systems, payment infrastructure, and high-performance backend engineering.
+<br><br>I primarily work with Python, Node.js, and Go, developing REST APIs, microservices, and database-driven applications. I’m particularly interested in distributed systems and payment infrastructure.
 
-<br><br>## 🚀 What I’m Currently Working On  
-- Building a Global Payment Orchestrator from scratch  
-- Strengthening System Design (caching, load balancing, queues, scalability)  
-- Improving Data Structures & Algorithms for SDE roles  
-- Exploring distributed systems and backend optimization  
+<br><br>## 🚀 Current Focus  
+- Building a Global Payment Orchestrator  
+- Improving System Design (caching, load balancing, scalability)  
+- Strengthening Data Structures & Algorithms  
+- Learning distributed systems  
 
 <br><br>## 🛠 Tech Stack  
 **Languages:** Python, JavaScript, Go  <br>
-**Backend:** Node.js, Express, REST APIs  <br>
+**Backend:** Node.js, REST APIs  <br>
 **Databases:** PostgreSQL, MongoDB  <br>
-**Concepts:** System Design, Microservices, OOP, Clean Architecture  <br>
-**Tools:** Git, Linux, Docker (learning), Postman  
-
-<br><br>## 📚 Areas of Interest  
-- Distributed Systems  
-- Payment Gateways & Financial Infrastructure  
-- High-Performance Backend Systems  
-- Scalable Architecture Design  
-- Backend Security & Authentication  
-
-<br><br>I focus on building practical, engineering-driven projects rather than tutorial-based implementations. Each repository reflects deliberate practice toward becoming a strong Software Development Engineer.
+**Tools:** Git, Linux, Docker  
 
 <br><br>---  
-
 <br><br>📩 Open to Backend / SDE Opportunities  
+
   <br>
 
 
